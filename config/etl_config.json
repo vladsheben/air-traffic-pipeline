@@ -1,0 +1,4 @@
+{
+  "airports": ["BER", "STR", "CDG"],
+  "api_key": "RAPID_API_KEY"
+}
