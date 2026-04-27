@@ -155,7 +155,7 @@ pip install -r requirements.txt
 
 Create a .env file in the root directory:
 ```bash
-RAPIDAPI_KEY=your_api_key_here
+RAPID_API_KEY=your_api_key_here
 ```
 ---
 
